@@ -1,8 +1,7 @@
 /* UI wiring for the Legal Speech Analyzer. All analysis runs in the browser from data.json. */
 (function () {
   "use strict";
-  const PALETTE = ["#fde68a", "#bfdbfe", "#bbf7d0", "#fecaca", "#e9d5ff", "#fed7aa", "#a5f3fc", "#fbcfe8", "#d9f99d", "#ddd6fe"];
-  const PDFJS = "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js";
+const PALETTE = ["#b7d894", "#a9c7f5", "#f5d6a0", "#f2b8c6", "#cdbcf0", "#9fe0d2", "#e0f8c7", "#f0c9a8", "#c5d3e8", "#e6e0a3"];  const PDFJS = "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js";
   const PDFJS_WORKER = "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js";
   const $ = (id) => document.getElementById(id);
   let D = null, last = null;
