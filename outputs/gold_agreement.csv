@@ -1,0 +1,6 @@
+metric,spearman,pearson
+Path,0.562,0.498
+Wu-Palmer,0.54,0.505
+Leacock-Chodorow,0.562,0.53
+Resnik,0.575,0.503
+Lin,0.618,0.533

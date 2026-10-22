@@ -1,0 +1,31 @@
+term,synset,path_best,path_score,path_norm,wup_best,wup_score,wup_norm,lch_best,lch_score,lch_norm,res_best,res_score,res_norm,lin_best,lin_score,lin_norm
+plaintiff,plaintiff.n.01,(no confident match),0.083,0.083,(no confident match),0.154,0.154,(no confident match),1.153,0.317,(no confident match),-0.0,-0.0,(no confident match),-0.0,-0.0
+defendant,defendant.n.01,(no confident match),0.083,0.083,(no confident match),0.154,0.154,(no confident match),1.153,0.317,(no confident match),-0.0,-0.0,(no confident match),-0.0,-0.0
+contract,contract.n.01,Contract,1.0,1.0,Contract,1.0,1.0,Contract,3.638,1.0,Contract,8.185,0.612,Contract,1.0,1.0
+attorney,lawyer.n.01,(no confident match),0.083,0.083,(no confident match),0.154,0.154,(no confident match),1.153,0.317,(no confident match),-0.0,-0.0,(no confident match),-0.0,-0.0
+agreement,agreement.n.01,(no confident match),0.333,0.333,Contract,0.857,0.857,Contract,2.539,0.698,(no confident match),7.125,0.533,Contract,0.931,0.931
+fraud,fraud.n.01,Fraud,1.0,1.0,Fraud,1.0,1.0,Fraud,3.638,1.0,Fraud,10.615,0.794,Fraud,1.0,1.0
+court,court.n.01,(no confident match),0.1,0.1,(no confident match),0.308,0.308,(no confident match),1.335,0.367,(no confident match),0.596,0.045,(no confident match),0.073,0.073
+testimony,testimony.n.01,(no confident match),0.167,0.167,Perjury-Oath,0.615,0.615,(no confident match),1.846,0.507,(no confident match),3.848,0.288,(no confident match),0.429,0.429
+witness,witness.n.04,(no confident match),0.091,0.091,(no confident match),0.167,0.167,(no confident match),1.24,0.341,(no confident match),-0.0,-0.0,(no confident match),-0.0,-0.0
+evidence,evidence.n.03,(no confident match),0.2,0.2,Perjury-Oath,0.667,0.667,(no confident match),2.028,0.558,(no confident match),3.848,0.288,(no confident match),0.459,0.459
+counsel,lawyer.n.01,(no confident match),0.083,0.083,(no confident match),0.154,0.154,(no confident match),1.153,0.317,(no confident match),-0.0,-0.0,(no confident match),-0.0,-0.0
+prosecution,prosecutor.n.01,(no confident match),0.077,0.077,(no confident match),0.143,0.143,(no confident match),1.073,0.295,(no confident match),-0.0,-0.0,(no confident match),-0.0,-0.0
+larceny,larceny.n.01,Larceny,1.0,1.0,Larceny,1.0,1.0,Larceny,3.638,1.0,Larceny,8.477,0.634,Larceny,1.0,1.0
+penalty,punishment.n.01,(no confident match),0.167,0.167,Negligence,0.667,0.667,(no confident match),1.846,0.507,(no confident match),4.524,0.338,(no confident match),0.452,0.452
+crime,crime.n.01,(no confident match),0.5,0.5,Fraud,0.947,0.947,Fraud,2.944,0.809,(no confident match),7.427,0.556,Larceny,0.934,0.934
+warrant,warrant.n.01,Warrant,1.0,1.0,Warrant,1.0,1.0,Warrant,3.638,1.0,Warrant,10.615,0.794,Warrant,1.0,1.0
+jury,jury.n.01,(no confident match),0.111,0.111,(no confident match),0.333,0.333,(no confident match),1.44,0.396,(no confident match),0.596,0.045,(no confident match),0.065,0.065
+trial,trial.n.04,(no confident match),0.167,0.167,Verdict,0.737,0.737,(no confident match),1.846,0.507,(no confident match),6.685,0.5,Verdict,0.631,0.631
+verdict,verdict.n.01,Verdict,1.0,1.0,Verdict,1.0,1.0,Verdict,3.638,1.0,Verdict,11.827,0.885,Verdict,1.0,1.0
+judge,judge.n.01,(no confident match),0.091,0.091,(no confident match),0.167,0.167,(no confident match),1.24,0.341,(no confident match),-0.0,-0.0,(no confident match),-0.0,-0.0
+fine,fine.n.01,Fine,1.0,1.0,Fine,1.0,1.0,Fine,3.638,1.0,Fine,9.366,0.701,Fine,1.0,1.0
+bail,bail.n.01,Bail,1.0,1.0,Bail,1.0,1.0,Bail,3.638,1.0,Bail,10.035,0.751,Bail,1.0,1.0
+appeal,appeal.n.03,(no confident match),0.167,0.167,Verdict,0.737,0.737,(no confident match),1.846,0.507,(no confident match),6.685,0.5,Verdict,0.606,0.606
+damages,damages.n.01,(no confident match),0.167,0.167,Fine,0.762,0.762,(no confident match),1.846,0.507,(no confident match),6.737,0.504,Fine,0.706,0.706
+negligence,negligence.n.01,Negligence,1.0,1.0,Negligence,1.0,1.0,Negligence,3.638,1.0,Negligence,9.977,0.746,Negligence,1.0,1.0
+tort,tort.n.01,Tort,1.0,1.0,Tort,1.0,1.0,Tort,3.638,1.0,Tort,13.367,1.0,Tort,1.0,1.0
+liability,liability.n.01,(no confident match),0.1,0.1,(no confident match),0.308,0.308,(no confident match),1.335,0.367,(no confident match),0.596,0.045,(no confident match),0.057,0.057
+statute,legislative_act.n.01,(no confident match),0.2,0.2,Contract,0.778,0.778,(no confident match),2.028,0.558,(no confident match),5.552,0.415,(no confident match),0.582,0.582
+oath,oath.n.02,Perjury-Oath,1.0,1.0,Perjury-Oath,1.0,1.0,Perjury-Oath,3.638,1.0,Perjury-Oath,11.827,0.885,Perjury-Oath,1.0,1.0
+law,law.n.01,(no confident match),0.125,0.125,(no confident match),0.364,0.364,(no confident match),1.558,0.428,(no confident match),0.596,0.045,(no confident match),0.072,0.072

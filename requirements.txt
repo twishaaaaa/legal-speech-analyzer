@@ -1,0 +1,9 @@
+nltk>=3.9
+numpy
+pandas
+scipy
+matplotlib
+streamlit
+reportlab
+python-pptx
+pypdf

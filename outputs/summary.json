@@ -1,0 +1,76 @@
+{
+  "ic_corpus": "brown",
+  "n_pairs": 28,
+  "n_related": 23,
+  "n_control": 5,
+  "n_transcript_sentences": 10,
+  "n_legal_term_occurrences": 40,
+  "n_distinct_legal_terms": 30,
+  "match_threshold": 0.6,
+  "terms_with_confident_match": {
+    "Path": 10,
+    "Wu-Palmer": 19,
+    "Leacock-Chodorow": 12,
+    "Resnik": 10,
+    "Lin": 15
+  },
+  "gold_agreement": [
+    {
+      "metric": "Path",
+      "spearman": 0.562,
+      "pearson": 0.498
+    },
+    {
+      "metric": "Wu-Palmer",
+      "spearman": 0.54,
+      "pearson": 0.505
+    },
+    {
+      "metric": "Leacock-Chodorow",
+      "spearman": 0.562,
+      "pearson": 0.53
+    },
+    {
+      "metric": "Resnik",
+      "spearman": 0.575,
+      "pearson": 0.503
+    },
+    {
+      "metric": "Lin",
+      "spearman": 0.618,
+      "pearson": 0.533
+    }
+  ],
+  "control_separation": [
+    {
+      "metric": "Path",
+      "related_mean": 0.349,
+      "control_mean": 0.072,
+      "gap": 0.277
+    },
+    {
+      "metric": "Wu-Palmer",
+      "related_mean": 0.592,
+      "control_mean": 0.219,
+      "gap": 0.373
+    },
+    {
+      "metric": "Leacock-Chodorow",
+      "related_mean": 0.53,
+      "control_mean": 0.191,
+      "gap": 0.339
+    },
+    {
+      "metric": "Resnik",
+      "related_mean": 0.433,
+      "control_mean": 0.079,
+      "gap": 0.354
+    },
+    {
+      "metric": "Lin",
+      "related_mean": 0.473,
+      "control_mean": 0.098,
+      "gap": 0.375
+    }
+  ]
+}
